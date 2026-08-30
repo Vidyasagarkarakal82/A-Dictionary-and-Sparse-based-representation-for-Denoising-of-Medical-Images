@@ -1,0 +1,2 @@
+# Download using TCIA CLI retriever
+tcia-data-retriever -d manifest-1234.tcia -o ./data/
